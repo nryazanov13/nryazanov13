@@ -25,10 +25,10 @@
 
 ### Дипломные работы
 
-| Тип              | Репозиторий                                                     |
-|------------------|-----------------------------------------------------------------|
-| **UI‑тесты**     | <https://github.com/nryazanov13/my_project_12/tree/testops>     |
-| **API‑тесты**    | <https://github.com/nryazanov13/my_project_16_api_ui>           |
+| Тип              | Репозиторий                                                      |
+|------------------|------------------------------------------------------------------|
+| **UI‑тесты**     | <https://github.com/nryazanov13/my_project_12/tree/testops>      |
+| **API‑тесты**    | <https://github.com/nryazanov13/my_project_16_api_ui/tree/configuration>           |
 | **Mobile‑тесты** | <https://github.com/nryazanov13/my_project_18_mob/tree/emulator> |
 
 В каждом репозитории использованы лучшие практики: Page‑Object Model, Clean Architecture, CI/CD (Jenkins) и
